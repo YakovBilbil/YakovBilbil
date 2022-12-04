@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yakov_bilbil" target="blank"><img src="https://img.shields.io/twitter/follow/yakov_bilbil?logo=twitter&style=for-the-badge" alt="yakov_bilbil" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/YakovBilbil?tab=repositories](https://github.com/YakovBilbil?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://yakovbilbil.github.io/](https://github.com/YakovBilbil?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JS, React**
 
